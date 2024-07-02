@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
 <h3 align="center">A passionate backend developer from Dhaka, Bangladesh</h3>
 
-<img align="right" alt="coding" width="550" height="400" src="https://cdn.dribbble.com/users/664063/screenshots/5762572/designer_and_client__dribbble__1.gif">
+<img align="right" alt="coding" width="500" height="350" src="https://cdn.dribbble.com/users/664063/screenshots/5762572/designer_and_client__dribbble__1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmtasnimsakib&label=Profile%20views&color=0e75b6&style=flat" alt="gmtasnimsakib" /> </p>
 
